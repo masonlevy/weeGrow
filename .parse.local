@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "_default": {
+      "link": "weeGrow"
+    },
+    "weeGrow": {
+      "parseAppId": "qOxZmdrg2F3BOYMDLJZ94bjHjrKdTd9zY4E7alnM",
+      "herokuAppId": "5599a4de-8788-4809-8f4d-cae4fb31f290"
+    }
+  }
+}
